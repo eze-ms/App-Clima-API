@@ -68,6 +68,7 @@ ClimaApp/
 │   ├── style.css          # Estilos globales
 │   ├── App.vue / main.js
 ├── vite.config.js
+```
 
 ## 🛠️ Instalación
 
