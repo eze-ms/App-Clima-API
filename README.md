@@ -76,7 +76,7 @@ git clone https://github.com/eze-ms/App-Clima-API
 
 ```
 
-### Instalar dependencias del backend
+### Instalar dependencias
 ```bash
 npm install
 ```
